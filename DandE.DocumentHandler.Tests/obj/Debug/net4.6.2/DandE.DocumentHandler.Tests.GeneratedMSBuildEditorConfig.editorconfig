@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DandE.DocumentHandler.Tests
+build_property.ProjectDir = C:\icon\DandErr\DandE.DocumentHandler.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
